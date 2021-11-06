@@ -1,0 +1,4 @@
+Hello_World.py
+
+logs/*.log
+!logs/sample.log
